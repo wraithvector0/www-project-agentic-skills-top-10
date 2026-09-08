@@ -89,13 +89,11 @@ Integrates via hooks with CrewAI, OpenAI Agents SDK, Google ADK, and MCP. Typica
 ### Known Limitations
 
 - Enforcement runs as a plugin hook. A compromised process can bypass it.
-- Full dashboard and multi-tenant API require a hosted account.
-- LangChain integration requires API key (hosted service).
 - No containerization or sandbox isolation.
 
 ### Framework Integration
 
-Integrates with OpenClaw via before-tool-call hook. LangChain integration available via REST API. OpenClaw plugin is open source with a minimal governance dashboard included. For questions or integration support: fran@wraithvector.com
+Integrates with OpenClaw via the before-tool-call hook for runtime policy enforcement and audit logging.
 
 ## Template for New Entries
 
