@@ -65,7 +65,7 @@ Integrates via hooks with CrewAI, OpenAI Agents SDK, Google ADK, and MCP. Typica
 **Description:** Agent Authority Management gateway for AI agents. Sits between agents and tool execution, enforcing role-based permissions before every action and producing cryptographically hash-chained audit records for every decision — ALLOW or BLOCK.
 
 **License:** MIT  
-**Repository:** https://github.com/wraithvector0/
+**Repository:** https://github.com/wraithvector0/wraithvector-openclaw  
 **Install:** `curl -fsSL https://raw.githubusercontent.com/wraithvector0/wraithvector-openclaw/main/install.sh | bash`
 **Contact:** fran@wraithvector.com  
 **Dependencies:** requests
