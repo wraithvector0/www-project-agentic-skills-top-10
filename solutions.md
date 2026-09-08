@@ -81,7 +81,7 @@ Integrates via hooks with CrewAI, OpenAI Agents SDK, Google ADK, and MCP. Typica
 
 **AST01 — Malicious Skills:** Does not scan skill manifests for malicious content.  
 **AST02 — Supply Chain Compromise:** Does not implement registry transparency or dependency pinning.  
-**AST05 — Unsafe Deserialization:** Does not parse untrusted skill configs.  
+**AST05 — Untrusted External Instructions:** Does not currently provide dedicated controls for untrusted external instructions.
 **AST07 — Update Drift:** No policy version pinning or TTL expiry.  
 **AST08 — Poor Scanning:** No semantic or behavioral scanning.  
 **AST10 — Cross-Platform Reuse:** OpenClaw-specific plugin. Universal Skill Format not yet implemented.
