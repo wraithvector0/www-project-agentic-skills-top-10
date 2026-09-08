@@ -67,7 +67,7 @@ Integrates via hooks with CrewAI, OpenAI Agents SDK, Google ADK, and MCP. Typica
 
 **License:** MIT  
 **Repository:** https://github.com/wraithvector0/wraithvector-openclaw  
-**Install:** Clone the repository and follow the installation instructions in the README.
+**Install:** Clone the repository and follow the installation instructions in the README.  
 **Dependencies:** requests
 
 ### AST Risks Addressed
